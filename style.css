@@ -31,13 +31,13 @@
 }
 
 *::-webkit-scrollbar-track {
-    background: var(--cor-dark);
+    background: transparent;
 }
 
 *::-webkit-scrollbar-thumb {
-    background-color: var(--cor-dark-200);
+    background-color: var(--cor-light-400);
     border-radius: 20px;
-    border: 1px solid var(--cor-dark);
+    border: 1px solid var(--cor-light-400);
 }
 
 html {
@@ -46,7 +46,7 @@ html {
 }
 
 body {
-    background: var(--cor-dark);
+    background: var(--cor-light);
     font-size: 1.6rem;
     color: var(--cor-white);
 }
