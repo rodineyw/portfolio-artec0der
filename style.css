@@ -215,6 +215,7 @@ section {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    top: rem;
     margin: 0 auto;
     text-align: center;
 }
