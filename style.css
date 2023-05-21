@@ -88,7 +88,7 @@ body {
 }
 
 input:checked ~ label .menu {
-    box-shadow: 0 0 0 50vw var(--cor-dark-200), 0 0 0 50vh var(--cor-dark);
+    box-shadow: 0 0 0 130vw var(--cor-dark-200), 0 0 0 130vh var(--cor-dark);
 }
 
 input:checked ~ ul {
@@ -153,7 +153,7 @@ input {
 }
 
 input:checked ~ label .menu {
-    box-shadow: 0 0 0 60vw var(--cor-dark-200), 0 0 0 62vh var(--cor-dark);
+    box-shadow: 0 0 0 110vw var(--cor-dark-200), 0 0 0 60vh var(--cor-dark);
     opacity: .9;
 }
 
